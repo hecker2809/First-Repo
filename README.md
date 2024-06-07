@@ -1,3 +1,3 @@
 # First-Repo
 This is my first github repository.
-Author - Yash Aggarwal
+Author - Yash Aggarwal(Main Author)
